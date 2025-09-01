@@ -1,8 +1,8 @@
 export const personalInfo = {
-  name: "Lorem Ipsum",
-  location: "Dolor Sit Amet",
-  email: "lorem@ipsum.com",
-  github: "https://github.com/loremipsum",
+  name: "Carlos D. Paz Salinas",
+  location: "Lima, Peru",
+  email: "carlosdavid.paz@unmsm.edu.pe",
+  github: "https://github.com/cdavidps",
   linkedin: "https://linkedin.com/in/loremipsum",
   profilePicture: "/profile.jpeg",
   heroDescription:
