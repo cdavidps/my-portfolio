@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "Carlos D. Paz Salinas",
-  location: "Lima, Peru",
+  location: "Lima, Perú",
   email: "carlosdavid.paz@unmsm.edu.pe",
   github: "https://github.com/cdavidps",
   linkedin: "https://www.linkedin.com/in/carlos-d-paz-salinas-6a7208358/",
@@ -11,28 +11,27 @@ export const personalInfo = {
 
 export const workExperience = [
   {
-    company: "Lorem Ipsum Corp",
-    location: "Lorem City",
-    position: "Lorem Engineer",
-    period: "Jan 2020 - Present",
+    company: "Instituto de Medicina Tropical UNMSM",
+    location: "Lima - Perú",
+    position: "Research Engineer",
+    period: "OCt 2023 - Jul 2025",
     achievements: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
-      "Sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.",
+      "Designed and developed a UV-B radiation emitter for laboratory experiments, integrating data analysis and prototyping.",
+      "Collected and analyzed experimental data to optimize radiation exposure parameters.",
+      "Built a working prototype and prepared technical documentation for research publication.",
+      "Presented findings to academic and research committees.",
     ],
   },
   {
-    company: "Dolor Sit Amet",
-    location: "Ipsumville",
-    position: "Software Developer",
-    period: "Feb 2019 - Jan 2020",
+    company: "Hospital Nacional Edgardo Rebagliati Martins",
+    location: "Lima - Perú",
+    position: "Biomedical Engineer Intern",
+    period: "Feb 2024 - Jun 2024",
     achievements: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
+      "Leading preventive and corrective maintenance of critical medical devices to ensure patient safety and optimal performance.",
+      "Maintained and calibrated ventilators, infusion pumps, monitors, and oximetry equipment, reducing downtime by 20%.",
+      "Implemented standard operating procedures for device verification and reporting.",
+      "Collaborated with clinical teams to optimize equipment usage and troubleshooting.",
     ],
   },
   {
