@@ -1,10 +1,10 @@
 export const personalInfo = {
-  name: "Carlos D. Paz Salinas",
-  location: "Lima, Perú",
-  email: "carlosdavid.paz@unmsm.edu.pe",
-  github: "https://github.com/cdavidps",
-  linkedin: "https://www.linkedin.com/in/carlos-d-paz-salinas-6a7208358/",
-  profilePicture: "/profile.png",
+  name: "Lorem Ipsum",
+  location: "Dolor Sit Amet",
+  email: "lorem@ipsum.com",
+  github: "https://github.com/loremipsum",
+  linkedin: "https://linkedin.com/in/loremipsum",
+  profilePicture: "/profile.jpeg",
   heroDescription:
     "As a Data Scientist with an engineering background, I specialize in transforming complex datasets into actionable insights that drive decision-making. I combine analytical rigor with practical engineering experience to develop predictive models, automate data pipelines, and deliver AI-powered solutions. Passionate about solving real-world problems, I excel at communicating technical findings to multidisciplinary teams and turning data into impactful strategies.",
 };
@@ -64,20 +64,9 @@ export const skills = {
     "Pytorch",
     "TensorFlow",
   ],
-  backendDevelopment: [
-    "Data Exploration",
-    "Data Cleaning", 
-    "Data Visualization",
-    "Apply Statistical Methods",
-    "Predictive Modeling",
-  ],
-  databaseAndStorage: [
-    "MySQL", 
-    "PostgreSQL",
-    "SQL Server",
-    "MongoDB"
-  ],
-  cloudAndDevOps: ["OCI AI Services", "OCI Data Science", "Docker", "Kubernetes"],
+  backendDevelopment: ["LoremNode", "IpsumExpress"],
+  databaseAndStorage: ["LoremDB", "IpsumORM"],
+  cloudAndDevOps: ["LoremCloud"],
   toolsAndServices: [
     "Pandas",
     "Numpy",
@@ -111,4 +100,53 @@ export const projects = [
 ];
 
 export const awards = [
+  {
+    name: "Lorem Ipsum Award",
+    issuer: "Lorem Organization",
+    date: "Jan 2020",
+    type: "International",
+    position: "First Place",
+  },
+  {
+    name: "Dolor Sit Amet Prize",
+    issuer: "Ipsum Foundation",
+    date: "Feb 2021",
+    type: "National",
+    position: "Runner-up",
+  },
+  {
+    name: "Consectetur Hackathon",
+    issuer: "Adipiscing Org",
+    date: "Mar 2022",
+    type: "National",
+    position: "Winner",
+  },
+  {
+    name: "Vestibulum Event",
+    issuer: "Vestibulum College",
+    date: "Apr 2022",
+    type: "National",
+    position: "First Prize",
+  },
+  {
+    name: "Curabitur Hackfest",
+    issuer: "Curabitur Institute",
+    date: "May 2022",
+    type: "National",
+    position: "Second Prize",
+  },
+  {
+    name: "Praesent Hacks",
+    issuer: "Praesent Group",
+    date: "Jun 2022",
+    type: "National",
+    position: "Second Runner-up",
+  },
+  {
+    name: "Fusce Hack",
+    issuer: "Fusce Club",
+    date: "Jul 2022",
+    type: "National",
+    position: "Most Impactful Hack",
+  },
 ];
