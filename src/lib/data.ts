@@ -3,10 +3,10 @@ export const personalInfo = {
   location: "Lima, Peru",
   email: "carlosdavid.paz@unmsm.edu.pe",
   github: "https://github.com/cdavidps",
-  linkedin: "https://linkedin.com/in/loremipsum",
+  linkedin: "https://www.linkedin.com/in/carlos-d-paz-salinas-6a7208358/",
   profilePicture: "/profile.jpeg",
   heroDescription:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "As a Data Scientist with an engineering background, I specialize in transforming complex datasets into actionable insights that drive decision-making. I combine analytical rigor with practical engineering experience to develop predictive models, automate data pipelines, and deliver AI-powered solutions. Passionate about solving real-world problems, I excel at communicating technical findings to multidisciplinary teams and turning data into impactful strategies.",
 };
 
 export const workExperience = [
