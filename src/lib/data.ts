@@ -94,7 +94,7 @@ export const skills = {
 export const projects = [
   {
     title: "Insurance Cost Predictor",
-    github: "https://github.com/cdavidps/insurance-cost-predictor.git",
+    github: "https://github.com/cdavidps/Predictor_costos_aseguradora.git",
     description: [
       "Built a machine learning pipeline to forecast insurance premiums using structured datasets.",
       "Explored and cleaned the data, performed feature engineering, and analyzed correlations to identify key cost drivers.",
@@ -103,13 +103,12 @@ export const projects = [
     ],
   },
   {
-    title: "Skeletal Variation",
-    github: "https://github.com/cdavidps/Skeletal_Variation.git",
+    title: "Hospital Readmision",
+    github: "https://github.com/cdavidps/hospital_readmision_mlops.git",
     description: [
-      "Developed a data-driven study to analyze skeletal structure variations using statistical and machine learning techniques.",
-      "Collected and preprocessed skeletal measurement data for analysis.",
-      "Applied exploratory data analysis (EDA) to identify patterns, correlations, and outliers in skeletal features.",
-      "Built predictive models to classify or predict skeletal variations based on demographic and biological attributes.",
+      "Developed a data-driven study to analyze readmision in the hospital using statistical and machine learning techniques.",
+      "Collected and preprocessed clinical data data for analysis.",
+      "Applied exploratory data analysis (EDA) to identify patterns, correlations, and outliers.",
     ],
   },
 ];
